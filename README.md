@@ -27,10 +27,10 @@ Cloud-deployed application accessible online
 
 ## Technology Stack
 
-Python
-Pandas
-Scikit-learn
-Streamlit
+Python-
+Pandas-
+Scikit-learn-
+Streamlit-
 Joblib
 
 ## Live Demo 
